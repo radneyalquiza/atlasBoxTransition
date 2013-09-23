@@ -9,7 +9,7 @@ A jQuery plugin for creating content slider from a set of containers
 NOTE: This is still an alpha version of the plugin.
 This currently has styling and event features including:
   1. Create content sliders from divs of images, html content, etc.
-  2. Page display.
+  2. Page number display.
   3. Single "Next" button for going to next content.
   4. Double "<" or ">" buttons for going to next and previous content.
 
